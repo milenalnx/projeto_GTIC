@@ -5,3 +5,4 @@ O Projeto possui as linguages HTML e CSS e foi utilizada a IDE Sublime TXT.
 O trabalho consiste na exploração de um sistema de informação para gestão de conhecimento a ser ilustrado em aula.
 
 Alunos: Dennis Pinto, Milena Melo, Mónica Cruz e Nuno Potier.
+# site
